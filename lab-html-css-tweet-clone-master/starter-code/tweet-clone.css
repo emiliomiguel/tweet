@@ -1,0 +1,112 @@
+.background-blue {
+	background-color: #F4F8F9;
+	height: 250px;
+	width: 60%;
+	position: relative;
+}
+.background-white {
+	background-color: #FFFFFF;
+	position: absolute;
+	height: 90%;
+	width: 95%;
+	top: 10px;
+	left: 20px;
+	border-radius: 5px;
+	border: 1px solid #E7ECF0;
+}
+#profile-picture {
+	position: absolute;
+	top: 40px;
+	left: 30px;
+	width: 7%;
+	height: 25%;
+}
+#account-logo {
+	position: absolute;
+	top: 40px;
+	left: 100px;
+	width: 1,5%;
+	height: 10%;
+}
+#first-name {
+	position: absolute;
+	top: 25px;
+	left: 120px;
+	font-weight: bold;
+}
+#validated-account {
+	position: absolute;
+	top: 35px;
+	left: 155px;
+	width: 1,5%;
+	height: 10%;	
+}
+#username {
+	position: absolute;
+	top: 55px;
+	left: 100px;
+	color: #73818B;
+}
+.follow {
+	position: absolute;
+	top: 40px;
+	right: 100px;
+	border-radius: 5px;
+	border: 1px solid #7EC1F4;
+	width: 15%;
+	height: 20%;
+}
+#twitter-logo {
+	position: absolute;
+	top: 15px;
+	right: 75px;
+	width: 20%;
+	height: 40%;
+}
+#follow {
+	position: absolute;
+	right: 20px;
+	font-weight: bold;
+	color: #7EC1F4;
+}
+#setting-up {
+	position: absolute;
+	left: 30px;
+	top: 90px;
+	font-size: 18px;
+}
+#time {
+	position: absolute;
+	left: 30px;
+	top: 120px;
+	color: #6C7B85;
+}
+#reply {
+	position: absolute;
+	left: 30px;
+	top: 180px;
+}
+#retweet {
+	position: absolute;
+	left: 80px;
+	top: 180px;
+}
+#retweet-count {
+	position: absolute;
+	left: 120px;
+	top: 165px;
+	font-size: 18px;
+	color: #6C7B85;
+}
+#favorite {
+	position: absolute;
+	left: 180px;
+	top: 180px;
+}
+#favorite-count {
+	position: absolute;
+	left: 210px;
+	top: 165px;
+	font-size: 18px;
+	color: #6C7B85;
+}
